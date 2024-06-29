@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm TanvirRahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207”>
+
 <p align="left"> 
  </p>
 
